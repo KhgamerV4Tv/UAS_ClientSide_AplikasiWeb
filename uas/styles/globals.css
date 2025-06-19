@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Variabel custom untuk background & foreground */
 :root {
   --background: #ffffff;
   --foreground: #171717;
